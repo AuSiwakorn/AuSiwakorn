@@ -31,12 +31,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/AuSiwakorn/AuSiwakorn/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💼 Featured Projects  
 
 - [AO-Soft ERP](https://github.com/AuSiwakorn/ao-soft-erp) – ระบบ ERP สำหรับบริษัท  
